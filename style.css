@@ -1,5 +1,6 @@
 body {
-  background-color: #fecdd8;
+  background-image: url("img/loveWallpaper.webp");
+  object-fit: cover;
 }
 .container {
   text-align: center;
